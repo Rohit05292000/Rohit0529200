@@ -25,7 +25,7 @@ Frontend Engineer with 3+ years of experience building scalable web applications
 React.js • TypeScript • JavaScript (ES6+) • Hooks • Context API • Component Architecture • Tailwind CSS  
 
 **Mobile Development (React Native CLI):**  
-React Native • Native Module Integration • Android Studio • Xcode • APK/AAB Builds • iOS Deployment  
+React Native • Native Module Integration • Redux • Context API • Android Studio • Xcode • APK/AAB Builds • iOS Deployment  
 
 **Backend & Services Integration:**  
 REST APIs • Firebase • JWT Authentication • Role-Based Authorization • FCM Push Notifications  
